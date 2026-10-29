@@ -73,7 +73,7 @@ a{
     gap: 35px;
     font-size: 14px;
 }
-.left-row:hover{
+.left-row a:hover{
     color: var(--primary-color);
 }
 .purchase-btn{
