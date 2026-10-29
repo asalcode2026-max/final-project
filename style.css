@@ -32,8 +32,8 @@ body {
     background-color: var(--header-color);
     border-bottom: 1px solid var(--border);
     color: var(--text-primary);
-    position: sticky;
-    top: 0;
+    /* position: sticky;
+    top: 0; */
 
 }
 
@@ -80,7 +80,7 @@ a {
     font-size: 14px;
 }
 
-.left-row:hover {
+.left-row a:hover {
     color: var(--primary-color);
 }
 
